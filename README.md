@@ -1,39 +1,44 @@
-<!-- HEADER WITH CHARACTER IMAGE ON THE LEFT -->
+<!-- ================= 1. OPENING (FULL WIDTH DI ATAS) ================= -->
+<div align="center">
+  <!-- ANIMASI KETIK NAMA & ROLE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F43F5E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nisa!+👋;Software+Engineering+Student;Fullstack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+</div>
+
+<br />
+
+<!-- OPENING PARAGRAPH -->
+<p align="center">
+  Hi, I'm Nisa, a Software Engineering student at <b>SMK Telkom Malang</b> who is passionate about technology, web development, and digital product design. I enjoy learning new things, building useful projects, and continuously improving my skills. Every project is an opportunity for me to grow, collaborate, and create solutions that make a positive impact.
+</p>
+
+<br />
+<hr />
+<br />
+
+<!-- ================= 2. PROPORSI BAWAH: KARAKTER (KIRI) | INFO & SOSMED (KANAN) ================= -->
 <table>
   <tr>
-    <!-- FOTO / KARAKTER DI SISI KIRI -->
-    <td width="32%" align="center" valign="top">
-      <img src="YOUR_CHARACTER_IMAGE_URL" width="100%" style="border-radius: 15px;" alt="Nisa Character" />
-      <br /><br />
-      <img src="https://img.shields.io/badge/STATUS-STUDENT_SMK_TELKOM_MALANG-EE2B47?style=for-the-badge" width="100%" />
+    <!-- KIRI: GAMBAR KARAKTER -->
+    <td width="40%" align="center" valign="middle">
+      <img src="YOUR_CHARACTER_IMAGE_URL" width="100%" alt="Nisa Character" />
     </td>
     
-    <!-- INFORMASI & BIOGRAFI DI SISI KANAN -->
-    <td width="68%" valign="top">
-      <h1>Hi, I'm Nisa' 👋</h1>
+    <!-- KANAN: INFORMATION (ATAS) & MEDIA SOCIAL (BAWAH) -->
+    <td width="60%" valign="top">
       
-      <!-- ANIMASI KETIK ROLE -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F43F5E&width=450&lines=Software+Engineering+Student;Fullstack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
-      
-      <br /><br />
-      
-      <!-- OPENING TEXT -->
-      <p>
-        Hi, I'm Nisa, a Software Engineering student at <b>SMK Telkom Malang</b> who is passionate about technology, web development, and digital product design. I enjoy learning new things, building useful projects, and continuously improving my skills. Every project is an opportunity for me to grow, collaborate, and create solutions that make a positive impact.
-      </p>
-
-      <hr />
-
-      <!-- QUICK INFO -->
+      <!-- INFORMATION BLOCK -->
+      <h3>📌 Information</h3>
       <ul>
-        <li>👤 <b>Full Name:</b> Khoirunnisa' Azzahro</li>
-        <li>✨ <b>Nickname:</b> Nisa'</li>
-        <li>🏫 <b>School:</b> SMK Telkom Malang (Software Engineering)</li>
-        <li>🎨 <b>Focus / Role:</b> Fullstack Web Development & UI/UX Design</li>
+        <li>👤 <b>Nama:</b> Khoirunnisa' Azzahro</li>
+        <li>✨ <b>Panggilan:</b> Nisa'</li>
+        <li>🏫 <b>Status:</b> Pelajar SMK Telkom Malang (RPL)</li>
+        <li>🎨 <b>Role:</b> Fullstack Developer / UI UX Designer</li>
       </ul>
 
-      <!-- FIND ME / SOCIAL MEDIA -->
-      <h4>🌐 Find Me:</h4>
+      <br />
+
+      <!-- MEDIA SOCIAL BLOCK -->
+      <h3>🌐 Media Social</h3>
       <p>
         <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
           <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -48,16 +53,18 @@
           <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
         </a>
       </p>
+
     </td>
   </tr>
 </table>
 
 ---
 
-### 🎨 UI/UX & 💻 Tech Stack
+<!-- ================= 3. TECH STACK & TOOLS ================= -->
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  <!-- UI/UX & Design Tools -->
+  <!-- UI/UX Tools -->
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <br />
@@ -78,7 +85,8 @@
 
 ---
 
-### 📈 GitHub Stats & Insights
+<!-- ================= 4. GITHUB STATS ================= -->
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
