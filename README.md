@@ -15,7 +15,7 @@ Hi, I'm <b>Nisa'</b>, a Software Engineering student at <b>SMK Telkom Malang</b>
 </td>
 <td width="30%" align="center" valign="middle">
 <!-- AVATAR KARAKTER (FRAME ATAS KANAN) -->
-<img src="nic.png" width="120" style="border: 3px solid #007ACC; border-radius: 12px;" alt="nicaAvatar.png" />
+<img src="nic.png" width="200" style="border: 3px solid #007ACC; border-radius: 12px;" alt="nicaAvatar.png" />
 </td>
 </tr>
 </table>
@@ -40,7 +40,7 @@ Hi, I'm <b>Nisa'</b>, a Software Engineering student at <b>SMK Telkom Malang</b>
 <a href="https://instagram.com/tamagoonigirii" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/Khoirunnisa' Azzahro" target="_blank">
+<a href="https://linkedin.com/in/nicle-yeon" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
