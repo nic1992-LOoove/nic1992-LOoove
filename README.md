@@ -29,7 +29,7 @@ Hi, I'm <b>Nisa'</b>, a Software Engineering student at <b>SMK Telkom Malang</b>
 <tr>
 <td width="40%" align="center" valign="middle">
 <!-- KARAKTER FULL BODY (KIRI) -->
-<img src="nisa.png" width="100%" alt="Nisa Character" />
+<img src="myCharakter.png" width="100%" alt="Nisa Character" />
 </td>
 
 <td width="60%" valign="top">
@@ -42,9 +42,6 @@ Hi, I'm <b>Nisa'</b>, a Software Engineering student at <b>SMK Telkom Malang</b>
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
