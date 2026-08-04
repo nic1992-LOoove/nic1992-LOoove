@@ -5,7 +5,7 @@
 
 <!-- SEARCH BAR STYLE HEADER -->
 <p>
-<img src="nic.png" height="35" />
+<img src="https://img.shields.io/badge/%F0%9F%94%8D_Getting_to_Know_'About_Me'-181717?style=for-the-badge&logoColor=white" height="35" />
 </p>
 
 <p>
@@ -15,7 +15,7 @@ Hi, I'm <b>Nisa'</b>, a Software Engineering student at <b>SMK Telkom Malang</b>
 </td>
 <td width="30%" align="center" valign="middle">
 <!-- AVATAR KARAKTER (FRAME ATAS KANAN) -->
-<img src="nisa.png" width="120" style="border: 3px solid #007ACC; border-radius: 12px;" alt="Nisa Avatar" />
+<img src="nisa.png" width="120" style="border: 3px solid #007ACC; border-radius: 12px;" alt="nic.png" />
 </td>
 </tr>
 </table>
