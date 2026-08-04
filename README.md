@@ -16,7 +16,7 @@ Hi, I'm Nisa, a Software Engineering student at <b>SMK Telkom Malang</b> who is 
 <tr>
 <td width="40%" align="center" valign="top">
 <!-- Ganti nisa.png jika nama file gambar karakter kamu berbeda -->
-<img src="nisa.png" width="100%" alt="Nisa Character" />
+<img src="myCharakter.png" width="100%" alt="Nisa Character" />
 </td>
 <td width="60%" valign="top">
 
