@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F43F5E&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Nisa!+👋;Software+Engineering+Student;Fullstack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
-</div>
 
 <br />
 
