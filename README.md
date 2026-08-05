@@ -36,7 +36,7 @@ Hi, I'm <b>Nisa'</b>, a Software Engineering student at <b>SMK Telkom Malang</b>
 <tr>
 <td width="35%" align="center" valign="middle">
 <!-- KARAKTER FULL BODY (KIRI) -->
-<img src="nisa.png" width="100%" alt="Nisa Character" />
+<img src="myCharakter.png" width="100%" alt="Nisa Character" />
 </td>
 
 <td width="65%" valign="top">
